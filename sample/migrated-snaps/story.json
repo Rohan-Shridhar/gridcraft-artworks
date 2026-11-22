@@ -6,7 +6,48 @@
   "description": "Migrated from local GridCraft Snaps into album Rohan-Shridhar/sample.",
   "loop": true,
   "defaultFrameDurationMs": 150,
-  "frames": [],
+  "frames": [
+    {
+      "artworkId": "snap-1",
+      "artworkPath": "snap-1.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-2",
+      "artworkPath": "snap-2.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-3",
+      "artworkPath": "snap-3.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-4",
+      "artworkPath": "snap-4.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-5",
+      "artworkPath": "snap-5.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-6",
+      "artworkPath": "snap-6.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-7",
+      "artworkPath": "snap-7.json",
+      "durationMs": 500
+    },
+    {
+      "artworkId": "snap-8",
+      "artworkPath": "snap-8.json",
+      "durationMs": 500
+    }
+  ],
   "createdAt": "2026-11-22T05:39:40.616Z",
-  "updatedAt": "2026-11-22T05:39:40.616Z"
+  "updatedAt": "2026-11-22T05:39:56.598Z"
 }
