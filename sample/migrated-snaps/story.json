@@ -1,0 +1,12 @@
+{
+  "format": "gridcraft-story",
+  "schemaVersion": 1,
+  "id": "migrated-snaps",
+  "name": "migrated-snaps",
+  "description": "Migrated from local GridCraft Snaps into album Rohan-Shridhar/sample.",
+  "loop": true,
+  "defaultFrameDurationMs": 150,
+  "frames": [],
+  "createdAt": "2026-11-22T05:39:40.616Z",
+  "updatedAt": "2026-11-22T05:39:40.616Z"
+}
