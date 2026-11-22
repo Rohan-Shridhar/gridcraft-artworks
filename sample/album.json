@@ -1,0 +1,13 @@
+{
+  "format": "gridcraft-album",
+  "schemaVersion": 1,
+  "id": "sample",
+  "name": "sample",
+  "description": "",
+  "createdAt": "2026-11-22T05:37:39.048Z",
+  "updatedAt": "2026-11-22T05:37:39.048Z",
+  "createdWith": {
+    "name": "GridCraft",
+    "version": "4.0.0"
+  }
+}
